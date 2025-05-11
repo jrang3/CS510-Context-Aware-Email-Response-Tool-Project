@@ -1,1 +1,1 @@
-# CS510-Context-Aware-Email-Response-Tool-Project
+# CS510-Smart Email Reply
